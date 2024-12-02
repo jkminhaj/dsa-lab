@@ -19,11 +19,11 @@ If you don’t have a compiler installed, you can use any of these online C++ co
 2. Copy the code into a `.cpp` file.
 3. Compile and execute the program in your terminal or IDE.  
    Example using GCC:
-   ```bash
+
    
+   ```bash
    g++ filename.cpp -o output
    ./output
 
 ## **Contributions**
 Feel free to fork this repository, suggest improvements, or report any issues.
-```
