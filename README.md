@@ -1,4 +1,6 @@
-Here is the **README.md** file content with the correct format, including the online compiler links:  
+# **DSA Lab Semester Final - 1st Year (C++)**
+
+This repository contains solutions and implementations for various **Data Structures and Algorithms (DSA)** problems written in **C++** for the semester final.
 
 ### **Option 1: Use an Online Compiler**
 If you don’t have a compiler installed, you can use any of these online C++ compilers to test the code:
