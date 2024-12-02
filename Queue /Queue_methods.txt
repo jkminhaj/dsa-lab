@@ -1,0 +1,6 @@
+push(element): Adds element to the back of the queue.
+pop(): Removes the element from the front of the queue.
+front(): Returns the element at the front of the queue without removing it.
+back(): Returns the element at the back of the queue without removing it.
+size(): Returns the number of elements in the queue.
+empty(): Returns true if the queue is empty, otherwise false.
